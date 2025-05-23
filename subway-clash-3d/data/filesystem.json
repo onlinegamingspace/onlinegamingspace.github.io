@@ -1,0 +1,19 @@
+{
+    "paks": [
+        "assets1_r5AEC.png",
+        "subway_r6715.png"
+    ],
+    "pak_sizes": {
+        "assets1_r5AEC.png": 3647107,
+        "subway_r6715.png": 7338345
+    },
+    "preload_paks": [
+        "assets1_r5AEC.png"
+    ],
+    "map_paks": {
+        "subway": "subway_r6715.png"
+    },
+    "map_hashes": {
+        "subway": "D373C71B"
+    }
+}
