@@ -105,13 +105,15 @@ This version of eaglercraft you are using right now is from 7/22/2022
 
 <script type="text/javascript">
 window.addEventListener("load", function() {
-	countdown();
-	setTimeout(function(){
-		document.getElementById("locally").remove();
-		window.minecraftOpts = [
-		"game_frame",createAssetURI("assets"),
-		]; main();
-	}, 1000);
+    countdown();
+
+    const locallyElement = document.getElementById("locally");
+    if (locallyElement) locallyElement.remove();
+
+    window.minecraftOpts = [
+        "game_frame", createAssetURI("assets")
+    ];
+    main();
 });
 </script>
 
