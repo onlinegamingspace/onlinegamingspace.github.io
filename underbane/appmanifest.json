@@ -1,0 +1,381 @@
+<br />
+<b>Notice</b>:  Function _load_textdomain_just_in_time was called <strong>incorrectly</strong>. Translation loading for the <code>acf</code> domain was triggered too early. This is usually an indicator for some code in the plugin or theme running too early. Translations should be loaded at the <code>init</code> action or later. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 6.7.0.) in <b>/var/www/undertale-game.com/data/www/undertale-game.com/wp-includes/functions.php</b> on line <b>6121</b><br />
+<br />
+<b>Notice</b>:  Function _load_textdomain_just_in_time was called <strong>incorrectly</strong>. Translation loading for the <code>redux-framework</code> domain was triggered too early. This is usually an indicator for some code in the plugin or theme running too early. Translations should be loaded at the <code>init</code> action or later. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 6.7.0.) in <b>/var/www/undertale-game.com/data/www/undertale-game.com/wp-includes/functions.php</b> on line <b>6121</b><br />
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8951318248096536"
+     crossorigin="anonymous"></script>
+	<meta name="google-site-verification" content="lDZ6Q4RjEtZlT9WSGJxzI0x4wFjLu6vtJN0BDjDoFaA" />
+    <meta charset="UTF-8">
+    <title>Страница не найдена</title>
+<meta property="og:type" content="article" />
+
+    <!-- Mobile Specific Metas
+	================================================== -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="pingback" href="https://undertale-game.com/xmlrpc.php">
+
+    <!-- Favicons
+	================================================== -->
+
+    <link rel="apple-touch-icon" sizes="120x120" href="https://undertale-game.com/wp-content/themes/fs-undertale/static/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://undertale-game.com/wp-content/themes/fs-undertale/static/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://undertale-game.com/wp-content/themes/fs-undertale/static/favicons/favicon-16x16.png">
+    <link rel="manifest" href="https://undertale-game.com/wp-content/themes/fs-undertale/static/favicons/site.webmanifest">
+    <link rel="mask-icon" href="https://undertale-game.com/wp-content/themes/fs-undertale/static/favicons/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+
+    
+    <meta name='robots' content='max-image-preview:large' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='https://undertale-game.com/wp-includes/css/dist/block-library/style.min.css?ver=6.8.1' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='growl-css' href='https://undertale-game.com/wp-content/plugins/cs-likes-counter/js/jquery-notice/jquery.notice.css?ver=6.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cslikes-css' href='https://undertale-game.com/wp-content/plugins/cs-likes-counter/css/cslikes.css?ver=6.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='default-css' href='https://undertale-game.com/wp-content/themes/fs-undertale/bundle/css/app.css?ver=6.8.1' type='text/css' media='all' />
+<script type="text/javascript" src="https://undertale-game.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://undertale-game.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://undertale-game.com/wp-content/plugins/cs-likes-counter/js/jquery-notice/jquery.notice.js?ver=6.8.1" id="growl-js"></script>
+<script type="text/javascript" id="cslikes-js-extra">
+/* <![CDATA[ */
+var cslikes = {"ajaxurl":"https:\/\/undertale-game.com\/wp-admin\/admin-ajax.php","confirmMsg":"Are you sure?","nonce":"69390cdb6e"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://undertale-game.com/wp-content/plugins/cs-likes-counter//js/default.js?ver=6.8.1" id="cslikes-js"></script>
+<link rel="https://api.w.org/" href="https://undertale-game.com/wp-json/" /><style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style></head>
+
+<body class="error404 wp-theme-fs-undertale">
+
+<div class="site">
+    <div class="site__content">
+
+        <header class="header">
+
+            <div class="container">
+                <div class="header__inner">
+                    <div class="header__logo">
+                        <a href="/" class="logo">
+                            <img src="https://undertale-game.com/wp-content/themes/fs-undertale/static/images/logo.png" alt="Beswarm"
+                                 class="img-fluid"/>
+                        </a>
+                    </div>
+                    <div class="header__menu">
+                        <input id="toggle" class="menu-toggle__check" type="checkbox">
+                        <label class="menu-toggle__wrapper" for="toggle">
+                        <span class="menu-toggle">
+                            <span class="menu-toggle__item menu-toggle__item--1"></span>
+                            <span class="menu-toggle__item menu-toggle__item--2"></span>
+                            <span class="menu-toggle__item menu-toggle__item--3"></span>
+                        </span>
+                        </label>
+
+                        
+<div class="menu menu--main">
+    <ul id="menu-main-menu" class="menu__inner"><li id="menu-item-9" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9"><a class="menu__link"href="https://undertale-game.com/c/games-for-boys/">Games For Boys</a></li>
+<li id="menu-item-10" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10"><a class="menu__link"href="https://undertale-game.com/c/games-for-girls/">Games For Girls</a></li>
+<li id="menu-item-11" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11"><a class="menu__link"href="https://undertale-game.com/c/popular-games/">Popular Games</a></li>
+<li id="menu-item-12" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12"><a class="menu__link"href="https://undertale-game.com/c/top-games/">Top Games</a></li>
+</ul></div>
+                    </div>
+                    <div class="header__buttons">
+                        <form action="/" method="get" class="search-form search-form--js">
+    <a href="#" class="search-form__button js-search-form-btn">
+        <svg class="icon" width="20px" height="20px">
+            <use xlink:href="#icon-search"></use>
+        </svg>
+    </a>
+    <div class="search-form__inner search-form__popup">
+        <input type="text" name="s" id="search" value="" placeholder="Search games" class="search-form__input" />
+        <a href="#" class="search-form__btn search-form-send--js">
+            Find
+        </a>
+    </div>
+</form>
+                        <a href="https://undertale-game.com/my-games/"
+                           class="btn btn--accent btn--favorites">
+                            <svg class="icon" width="20px" height="20px">
+                                <use xlink:href="#icon-heart"></use>
+                            </svg>
+                            <span>My games</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+        </header>
+
+<section class="content-top content-top--centered content">
+    <div class="content-top__illustration content-top__illustration--left">
+        <img src="https://undertale-game.com/wp-content/themes/fs-undertale/static/images/top-left.png" />
+    </div>
+    <div class="content-top__illustration content-top__illustration--right">
+        <img src="https://undertale-game.com/wp-content/themes/fs-undertale/static/images/top-right.png" />
+    </div>
+
+    <div class="container">
+        <div class="content-top__inner">
+            <div class="content-top__text">
+                <h1>Page not found</h1>
+                <p>Sorry. You can go to the home page or search for something else</p>
+            </div>
+
+            <a href="/" class="btn btn--accent content-top__btn">Home</a>
+        </div>
+    </div>
+    <div class="content-top__carousel">
+        <section class="carousel">
+        <div class="container">
+        <div class="carousel__inner">
+            <a href="#" class="carousel__nav carousel__nav--prev js-carousel-prev">
+                <svg class="icon" width="23px" height="23px">
+                    <use xlink:href="#icon-angle-left"></use>
+                </svg>
+            </a>
+            <div class="carousel_items swiper-container js-carousel hidden">
+                <div class="swiper-wrapper">
+                                            <div class="carousel__item swiper-slide">
+                            <div class="card">
+    <div class="card__inner">
+        <a href="https://undertale-game.com/fnf-vs-huggy-wuggy/" class="card__thumb card__thumb--big">
+            <div class="card__overlay"></div>
+            <img width="200" height="150" src="https://undertale-game.com/wp-content/themes/fs-undertale/static/images/placeholder-200x150.png" data-src="https://undertale-game.com/wp-content/uploads/2022/01/fnf-vs-huggy-wuggy-200x150.jpg" class="img-fluid lazy-image wp-post-image" alt="" decoding="async" />        </a>
+        <div class="card__title">
+            FNF Vs Huggy Wuggy        </div>
+    </div>
+</div>                        </div>
+                                            <div class="carousel__item swiper-slide">
+                            <div class="card">
+    <div class="card__inner">
+        <a href="https://undertale-game.com/undertale/" class="card__thumb card__thumb--big">
+            <div class="card__overlay"></div>
+            <img width="200" height="150" src="https://undertale-game.com/wp-content/themes/fs-undertale/static/images/placeholder-200x150.png" data-src="https://undertale-game.com/wp-content/uploads/2022/01/undertale-200x150.jpg" class="img-fluid lazy-image wp-post-image" alt="" decoding="async" />        </a>
+        <div class="card__title">
+            Undertale        </div>
+    </div>
+</div>                        </div>
+                                            <div class="carousel__item swiper-slide">
+                            <div class="card">
+    <div class="card__inner">
+        <a href="https://undertale-game.com/tomb-run-tomb-of-the-mask/" class="card__thumb card__thumb--big">
+            <div class="card__overlay"></div>
+            <img width="200" height="150" src="https://undertale-game.com/wp-content/themes/fs-undertale/static/images/placeholder-200x150.png" data-src="https://undertale-game.com/wp-content/uploads/2022/01/tomb-run-tomb-of-the-mask-200x150.jpg" class="img-fluid lazy-image wp-post-image" alt="" decoding="async" />        </a>
+        <div class="card__title">
+            Tomb Run (Tomb of the Mask)        </div>
+    </div>
+</div>                        </div>
+                                            <div class="carousel__item swiper-slide">
+                            <div class="card">
+    <div class="card__inner">
+        <a href="https://undertale-game.com/undertale-last-breath/" class="card__thumb card__thumb--big">
+            <div class="card__overlay"></div>
+            <img width="200" height="150" src="https://undertale-game.com/wp-content/themes/fs-undertale/static/images/placeholder-200x150.png" data-src="https://undertale-game.com/wp-content/uploads/2022/01/undertale-last-breath-200x150.jpg" class="img-fluid lazy-image wp-post-image" alt="" decoding="async" />        </a>
+        <div class="card__title">
+            Undertale Last Breath        </div>
+    </div>
+</div>                        </div>
+                                            <div class="carousel__item swiper-slide">
+                            <div class="card">
+    <div class="card__inner">
+        <a href="https://undertale-game.com/sir-kain-battle/" class="card__thumb card__thumb--big">
+            <div class="card__overlay"></div>
+            <img width="200" height="150" src="https://undertale-game.com/wp-content/themes/fs-undertale/static/images/placeholder-200x150.png" data-src="https://undertale-game.com/wp-content/uploads/2022/01/sir-kain-battle-200x150.jpg" class="img-fluid lazy-image wp-post-image" alt="" decoding="async" />        </a>
+        <div class="card__title">
+            Sir Kain Battle        </div>
+    </div>
+</div>                        </div>
+                                            <div class="carousel__item swiper-slide">
+                            <div class="card">
+    <div class="card__inner">
+        <a href="https://undertale-game.com/fnf-vs-undertale/" class="card__thumb card__thumb--big">
+            <div class="card__overlay"></div>
+            <img width="200" height="150" src="https://undertale-game.com/wp-content/themes/fs-undertale/static/images/placeholder-200x150.png" data-src="https://undertale-game.com/wp-content/uploads/2022/01/fnf-vs-undertale-200x150.jpg" class="img-fluid lazy-image wp-post-image" alt="" decoding="async" />        </a>
+        <div class="card__title">
+            FNF Vs Undertale        </div>
+    </div>
+</div>                        </div>
+                                            <div class="carousel__item swiper-slide">
+                            <div class="card">
+    <div class="card__inner">
+        <a href="https://undertale-game.com/lucas-battle/" class="card__thumb card__thumb--big">
+            <div class="card__overlay"></div>
+            <img width="200" height="150" src="https://undertale-game.com/wp-content/themes/fs-undertale/static/images/placeholder-200x150.png" data-src="https://undertale-game.com/wp-content/uploads/2022/01/lucas-battle-200x150.jpg" class="img-fluid lazy-image wp-post-image" alt="" decoding="async" />        </a>
+        <div class="card__title">
+            Lucas Battle        </div>
+    </div>
+</div>                        </div>
+                                            <div class="carousel__item swiper-slide">
+                            <div class="card">
+    <div class="card__inner">
+        <a href="https://undertale-game.com/just-one-boss/" class="card__thumb card__thumb--big">
+            <div class="card__overlay"></div>
+            <img width="200" height="150" src="https://undertale-game.com/wp-content/themes/fs-undertale/static/images/placeholder-200x150.png" data-src="https://undertale-game.com/wp-content/uploads/2022/01/just-one-boss-200x150.jpg" class="img-fluid lazy-image wp-post-image" alt="" decoding="async" />        </a>
+        <div class="card__title">
+            Just One Boss        </div>
+    </div>
+</div>                        </div>
+                                    </div>
+            </div>
+            <a href="#" class="carousel__nav carousel__nav--next js-carousel-next">
+                <svg class="icon" width="23px" height="23px">
+                    <use xlink:href="#icon-angle-right"></use>
+                </svg>
+            </a>
+        </div>
+    </div>
+
+</section>
+    </div>
+</section>
+
+
+</div><!-- End site-layout__content-->
+
+<div class="site__footer">
+    <footer class="footer">
+
+        <div class="container">
+            <div class="footer__inner">
+
+                <div class="footer__column">
+                    <img src="https://undertale-game.com/wp-content/themes/fs-undertale/static/images/logo.png" alt="Beswarm">
+                </div>
+
+                <div class="footer__column">
+                    
+<div class="menu menu--footer">
+    <ul id="menu-footer" class="menu__inner"><li id="menu-item-32" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-32"><a class="menu__link"href="https://undertale-game.com/c/games-for-boys/">Games For Boys</a></li>
+<li id="menu-item-33" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33"><a class="menu__link"href="https://undertale-game.com/c/games-for-girls/">Games For Girls</a></li>
+</ul></div>
+                </div>
+
+                <div class="footer__column">
+                    <div class="footer__copyright">
+                                            </div>
+                </div>
+
+            </div>
+        </div>
+
+    </footer>
+</div>
+
+</div><!-- End site-layout-->
+
+<div class="counters">
+    <!--LiveInternet counter--><a href="https://www.liveinternet.ru/click"
+target="_blank"><img id="licnt8FEC" width="31" height="31" style="border:0" 
+title="LiveInternet"
+src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7"
+alt=""/></a><script>(function(d,s){d.getElementById("licnt8FEC").src=
+"https://counter.yadro.ru/hit?t44.12;r"+escape(d.referrer)+
+((typeof(s)=="undefined")?"":";s"+s.width+"*"+s.height+"*"+
+(s.colorDepth?s.colorDepth:s.pixelDepth))+";u"+escape(d.URL)+
+";h"+escape(d.title.substring(0,150))+";"+Math.random()})
+(document,screen)</script><!--/LiveInternet-->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q7LH3SBEF5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Q7LH3SBEF5');
+</script></div>
+
+<div class="privacy">
+    <div class="privacy__inner">
+        <div class="privacy__content">
+            We use cookies to ensure you get the best experience on our site            &nbsp;<a href="https://undertale-game.com/privacy-policy/">More details</a>
+        </div>
+        <div class="privacy__links">
+            <a href="#" class="btn btn--primary btn--xs js-policy-agree">Close</a>
+        </div>
+    </div>
+</div>
+
+<a id="back-to-top" href="#" title="Наверх" class="scroll-top">
+    <svg class="icon" width="14px" height="14px">
+        <use xlink:href="#icon-angle-right"></use>
+    </svg>
+</a>
+
+<div class="images-preload">
+    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <symbol id="icon-heart" viewBox="0 0 511.626 511.626">
+		<path d="M475.366,71.949c-24.175-23.606-57.575-35.404-100.215-35.404c-11.8,0-23.843,2.046-36.117,6.136
+			c-12.279,4.093-23.702,9.615-34.256,16.562c-10.568,6.945-19.65,13.467-27.269,19.556c-7.61,6.091-14.845,12.564-21.696,19.414
+			c-6.854-6.85-14.087-13.323-21.698-19.414c-7.616-6.089-16.702-12.607-27.268-19.556c-10.564-6.95-21.985-12.468-34.261-16.562
+			c-12.275-4.089-24.316-6.136-36.116-6.136c-42.637,0-76.039,11.801-100.211,35.404C12.087,95.55,0,128.286,0,170.16
+			c0,12.753,2.24,25.891,6.711,39.398c4.471,13.514,9.566,25.031,15.275,34.546c5.708,9.514,12.181,18.792,19.414,27.834
+			c7.233,9.041,12.519,15.272,15.846,18.698c3.33,3.426,5.948,5.903,7.851,7.427L243.25,469.938
+			c3.427,3.426,7.614,5.144,12.562,5.144s9.138-1.718,12.563-5.144l177.87-171.31c43.588-43.58,65.38-86.406,65.38-128.472
+			C511.626,128.279,499.54,95.546,475.366,71.949z M421.405,271.795L255.813,431.391L89.938,271.507
+			C54.344,235.922,36.55,202.133,36.55,170.156c0-15.415,2.046-29.026,6.136-40.824c4.093-11.8,9.327-21.177,15.703-28.124
+			c6.377-6.949,14.132-12.607,23.268-16.988c9.141-4.377,18.086-7.328,26.84-8.85c8.754-1.52,18.079-2.281,27.978-2.281
+			c9.896,0,20.557,2.424,31.977,7.279c11.418,4.853,21.934,10.944,31.545,18.271c9.613,7.332,17.845,14.183,24.7,20.557
+			c6.851,6.38,12.559,12.229,17.128,17.559c3.424,4.189,8.091,6.283,13.989,6.283c5.9,0,10.562-2.094,13.99-6.283
+			c4.568-5.33,10.28-11.182,17.131-17.559c6.852-6.374,15.085-13.222,24.694-20.557c9.613-7.327,20.129-13.418,31.553-18.271
+			c11.416-4.854,22.08-7.279,31.977-7.279s19.219,0.761,27.977,2.281c8.757,1.521,17.702,4.473,26.84,8.85
+			c9.137,4.38,16.892,10.042,23.267,16.988c6.376,6.947,11.612,16.324,15.705,28.124c4.086,11.798,6.132,25.409,6.132,40.824
+			C475.078,202.133,457.19,236.016,421.405,271.795z"/>
+	</symbol>
+    <symbol id="icon-star" viewBox="0 -10 511.98685 511">
+        <path d="m114.59375 491.140625c-5.609375 0-11.179688-1.75-15.933594-5.1875-8.855468-6.417969-12.992187-17.449219-10.582031-28.09375l32.9375-145.089844-111.703125-97.960937c-8.210938-7.167969-11.347656-18.519532-7.976562-28.90625 3.371093-10.367188 12.542968-17.707032 23.402343-18.710938l147.796875-13.417968 58.433594-136.746094c4.308594-10.046875 14.121094-16.535156 25.023438-16.535156 10.902343 0 20.714843 6.488281 25.023437 16.511718l58.433594 136.769532 147.773437 13.417968c10.882813.980469 20.054688 8.34375 23.425782 18.710938 3.371093 10.367187.253906 21.738281-7.957032 28.90625l-111.703125 97.941406 32.9375 145.085938c2.414063 10.667968-1.726562 21.699218-10.578125 28.097656-8.832031 6.398437-20.609375 6.890625-29.910156 1.300781l-127.445312-76.160156-127.445313 76.203125c-4.308594 2.558594-9.109375 3.863281-13.953125 3.863281zm141.398438-112.875c4.84375 0 9.640624 1.300781 13.953124 3.859375l120.277344 71.9375-31.085937-136.941406c-2.21875-9.746094 1.089843-19.921875 8.621093-26.515625l105.472657-92.5-139.542969-12.671875c-10.046875-.917969-18.6875-7.234375-22.613281-16.492188l-55.082031-129.046875-55.148438 129.066407c-3.882812 9.195312-12.523438 15.511718-22.546875 16.429687l-139.5625 12.671875 105.46875 92.5c7.554687 6.613281 10.859375 16.769531 8.621094 26.539062l-31.0625 136.9375 120.277343-71.914062c4.308594-2.558594 9.109376-3.859375 13.953126-3.859375zm-84.585938-221.847656s0 .023437-.023438.042969zm169.128906-.0625.023438.042969c0-.023438 0-.023438-.023438-.042969zm0 0"/>
+    </symbol>
+
+    <symbol id="icon-play" viewBox="0 0 510.513 510.513">
+        <path d="m508.934 374.044-21.002-114.24c-6.75-52.217-51.437-91.535-104.128-91.535h-257.1c-52.691 0-97.377 39.318-104.128 91.536l-21.002 114.239c-10.442 56.8 32.377 109.844 89.812 112.149 54.727 2.191 98.696-42.488 98.868-95.801.002-.19-6.175-.124 130.001-.124 0 53.13 43.973 98.129 98.868 95.925 57.175-2.295 100.305-55.077 89.811-112.149zm-56.307 70.411c-24.653 17.362-58.817 15.887-81.888-6.276-13.019-12.507-20.485-30.036-20.485-48.095 0-16.117-13.286-29.815-30-29.815h-130c-16.711 0-30 13.695-30 29.815 0 36.591-30.051 67.639-67.666 66.134-34.39-1.38-61.562-29.525-62.643-63.358-.271-8.47-.571-4.114 22.211-128.039.052-.282.096-.566.131-.852 4.682-37.456 36.674-65.701 74.416-65.701h257.1c37.742 0 69.733 28.245 74.416 65.701.081.66-1.404-7.495 21.208 115.5 4.79 26.013-6.885 50.961-26.8 64.986z"/><path d="m183.254 272.269h-25v-25c0-8.284-6.716-15-15-15s-15 6.716-15 15v25h-25c-8.284 0-15 6.716-15 15s6.716 15 15 15h25v25c0 8.284 6.716 15 15 15s15-6.716 15-15v-25h25c8.284 0 15-6.716 15-15s-6.716-15-15-15z"/><path d="m381.964 244.338c-1.856-8.857-10.636-13.932-19.07-11.42-8.654 2.82-12.207 11.399-9.99 18.7 2.746 8.583 11.353 12.238 18.7 10 7.762-2.477 11.748-9.866 10.36-17.28z"/><path d="m407.254 272.269c-8.284 0-15 6.716-15 15v1c0 8.284 6.716 15 15 15s15-6.716 15-15v-1c0-8.285-6.716-15-15-15z"/><path d="m327.254 272.269c-8.284 0-15 6.716-15 15v1c0 8.284 6.716 15 15 15s15-6.716 15-15v-1c0-8.285-6.716-15-15-15z"/><path d="m381.964 324.339c-1.856-8.857-10.636-13.932-19.07-11.42-8.617 2.808-12.197 11.285-9.99 18.71 2.865 8.762 11.492 12.186 18.7 9.99 7.733-2.468 11.753-9.841 10.36-17.28z"/><path d="m216.363 104.378c-5.858 5.858-5.858 15.355 0 21.213 5.857 5.857 15.355 5.857 21.213 0 9.77-9.77 25.584-9.772 35.355 0 5.858 5.858 15.355 5.858 21.213 0s5.858-15.355 0-21.213c-21.443-21.445-56.336-21.444-77.781 0z"/><path d="m192.321 80.336c34.781-34.781 91.08-34.787 125.865 0 5.857 5.858 15.355 5.858 21.213 0s5.858-15.355 0-21.213c-46.504-46.505-121.78-46.511-168.291 0-5.858 5.858-5.858 15.355 0 21.213s15.356 5.858 21.213 0z"/>
+    </symbol>
+    <symbol id="icon-expand" viewBox="0 0 215.35 215.35">
+        <path d="M7.5,65.088c4.143,0,7.5-3.358,7.5-7.5V25.61l48.305,48.295c1.465,1.464,3.384,2.196,5.303,2.196
+		c1.92,0,3.84-0.732,5.304-2.197c2.929-2.929,2.929-7.678-0.001-10.606L25.604,15.002h31.985c4.142,0,7.5-3.358,7.5-7.5
+		c0-4.142-3.357-7.5-7.5-7.5H7.5c-4.143,0-7.5,3.358-7.5,7.5v50.087C0,61.73,3.357,65.088,7.5,65.088z"/>
+        <path d="M207.85,150.262c-4.143,0-7.5,3.358-7.5,7.5v31.979l-49.792-49.792c-2.93-2.929-7.678-2.929-10.607,0
+		c-2.929,2.929-2.929,7.678,0,10.606l49.791,49.791h-31.977c-4.143,0-7.5,3.358-7.5,7.5c0,4.142,3.357,7.5,7.5,7.5h50.086
+		c4.143,0,7.5-3.358,7.5-7.5v-50.084C215.35,153.62,211.992,150.262,207.85,150.262z"/>
+        <path d="M64.792,139.949L15.005,189.74v-31.978c0-4.142-3.357-7.5-7.5-7.5s-7.5,3.358-7.5,7.5v50.086c0,4.142,3.357,7.5,7.5,7.5
+		h50.084c4.142,0,7.5-3.358,7.5-7.5s-3.357-7.5-7.5-7.5H25.611l49.788-49.793c2.929-2.929,2.929-7.678-0.001-10.607
+		C72.471,137.02,67.722,137.02,64.792,139.949z"/>
+        <path d="M207.85,0.002h-50.086c-4.143,0-7.5,3.358-7.5,7.5c0,4.142,3.357,7.5,7.5,7.5h31.979l-48.298,48.301
+		c-2.929,2.929-2.929,7.678,0.001,10.607c1.464,1.464,3.384,2.196,5.303,2.196c1.919,0,3.839-0.733,5.304-2.197l48.298-48.301v31.98
+		c0,4.142,3.357,7.5,7.5,7.5c4.143,0,7.5-3.358,7.5-7.5V7.502C215.35,3.359,211.992,0.002,207.85,0.002z"/>
+    </symbol>
+
+    <symbol id="icon-angle-right" viewBox="0 0 451.846 451.847">
+        <path d="M345.441 248.292L151.154 442.573C138.795 454.938 118.757 454.938 106.404 442.573C94.05 430.219 94.05 410.182 106.404 397.829L278.318 225.92L106.409 54.017C94.055 41.658 94.055 21.623 106.409 9.26901C118.763 -3.08999 138.8 -3.08999 151.159 9.26901L345.446 203.553C351.623 209.733 354.708 217.824 354.708 225.919C354.708 234.018 351.617 242.115 345.441 248.292Z"/>
+    </symbol>
+
+    <symbol id="icon-angle-left" viewBox="0 0 451.846 451.847">
+        <path d="M106.405 203.554L300.693 9.27349C313.052 -3.0915 333.09 -3.0915 345.443 9.2735C357.797 21.6275 357.797 41.6645 345.443 54.0175L173.529 225.926L345.437 397.829C357.791 410.188 357.791 430.223 345.437 442.577C333.083 454.936 313.046 454.936 300.687 442.577L106.4 248.293C100.223 242.113 97.1385 234.022 97.1385 225.927C97.1385 217.828 100.229 209.731 106.405 203.554Z"/>
+    </symbol>
+
+    <symbol id="icon-search" viewBox="0 0 512 512">
+		<path d="M225.474,0C101.151,0,0,101.151,0,225.474c0,124.33,101.151,225.474,225.474,225.474c124.33,0,225.474-101.144,225.474-225.474C450.948,101.151,349.804,0,225.474,0z M225.474,409.323c-101.373,0-183.848-82.475-183.848-183.848S124.101,41.626,225.474,41.626s183.848,82.475,183.848,183.848S326.847,409.323,225.474,409.323z"/>
+        <path d="M505.902,476.472L386.574,357.144c-8.131-8.131-21.299-8.131-29.43,0c-8.131,8.124-8.131,21.306,0,29.43l119.328,119.328c4.065,4.065,9.387,6.098,14.715,6.098c5.321,0,10.649-2.033,14.715-6.098C514.033,497.778,514.033,484.596,505.902,476.472z"/>
+    </symbol>
+</svg></div>
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/fs-undertale\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<link rel='stylesheet' id='custom-css' href='https://undertale-game.com/wp-content/themes/fs-undertale/style.css?ver=1641841809001' type='text/css' media='all' />
+<script type="text/javascript" id="app-js-extra">
+/* <![CDATA[ */
+var beswarm = {"url":"https:\/\/undertale-game.com\/wp-admin\/admin-ajax.php","nonce":"de064f7d65"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://undertale-game.com/wp-content/themes/fs-undertale/bundle/js/app.js?ver=1641841809001" id="app-js"></script>
+</body>
+</html>
